@@ -2,6 +2,10 @@
 
 Une landing page animée avec **GSAP**, construite avec **React**, **Vite**, **TailwindCSS**, et optimisée pour une expérience responsive moderne.
 
+## 🎥 Aperçu du site
+
+![Aperçu animé de la landing page](https://raw.githubusercontent.com/ton-utilisateur/gsap-landingpage/main/public/demo.gif)
+
 ---
 
 ## ⚙️ Stack technique
