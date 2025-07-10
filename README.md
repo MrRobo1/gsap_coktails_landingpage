@@ -23,11 +23,13 @@ cd gsap-landingpage
 ```
 
 ### 2. Installer les dépendances (selon votre manager de paquets)
+
 ```bash
 pnpm install
 ```
 
 ### 3. Démarrer le serveur de dev
+
 ```bash
 pnpm run dev
 ```
