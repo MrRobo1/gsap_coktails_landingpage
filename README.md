@@ -4,7 +4,7 @@ Une landing page animée avec **GSAP**, construite avec **React**, **Vite**, **T
 
 ## 🎥 Aperçu du site
 
-![Aperçu animé de la landing page](https://raw.githubusercontent.com/ton-utilisateur/gsap-landingpage/main/public/demo.gif)
+![Aperçu animé de la landing page](https://raw.githubusercontent.com/MrRobo1/gsap-landingpage/main/public/demo.gif)
 
 ---
 
