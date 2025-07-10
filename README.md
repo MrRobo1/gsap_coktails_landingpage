@@ -1,12 +1,33 @@
-# React + Vite
+# GSAP Landing Page 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Une landing page animée avec **GSAP**, construite avec **React**, **Vite**, **TailwindCSS**, et optimisée pour une expérience responsive moderne.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Stack technique
 
-## Expanding the ESLint configuration
+- [React 19](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [GSAP 3](https://greensock.com/gsap/)
+- [TailwindCSS 4](https://tailwindcss.com/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Lancer le projet
+
+### 1. Cloner le dépôt
+
+```bash
+git clone https://github.com/ton-utilisateur/gsap-landingpage.git
+cd gsap-landingpage
+```
+
+### 2. Installer les dépendances (selon votre manager de paquets)
+```bash
+pnpm install
+```
+
+### 3. Démarrer le serveur de dev
+```bash
+pnpm run dev
+```
