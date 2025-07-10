@@ -18,7 +18,7 @@ Une landing page animée avec **GSAP**, construite avec **React**, **Vite**, **T
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/ton-utilisateur/gsap-landingpage.git
+git clone https://github.com/MrRobo1/gsap-landingpage.git
 cd gsap-landingpage
 ```
 
